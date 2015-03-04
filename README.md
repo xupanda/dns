@@ -1,0 +1,2 @@
+# dns
+bind
